@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devspitz
-- 👀 I’m interested in ...
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on freelance work
 - 📫 How to reach me spitzdev@gmail.com
