@@ -6,8 +6,8 @@ Goal: A company motivational and orginaztional tool to have employees earn statu
 (Personal goal: make components as reusuable as possible to enable personaliztion for companies.)
 
 Phase I
-v-company tasks list displayed (creating React front end)
--abitlity to add tasks (adding express backend)
+-company tasks list displayed (creating React front end)
+-abitlity to add tasks (adding Express backend)
 -Use AI to design app (or using Figma)
 -REST to tasks list. ability to add, edit, delete...
 -sort tasks by prioritys or deadline
