@@ -1,7 +1,7 @@
 # Motivate
 Motivate
 
-To be written in React and Express
+To be written in React and Express<br>
 Goal: A company motivational and orginaztional tool to have employees earn statuses/rewards by completing tasks.
 (Personal goal: make components as reusuable as possible to enable personaliztion for companies.)
 
